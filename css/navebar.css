@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@media (max-width:600px) {
+    .btn5{
+        display:none;
+    }
+    .jbtn2{
+width:100%;
+    right: 0;
+    }
+}
+
+@media (min-width:650px) {
+    
+.footer{
+    display: flex;
+    column-gap: 15%;
+}
+}
