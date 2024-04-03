@@ -5,6 +5,7 @@ const home = () => {
 
   return (
     <>
+
      <div className="h-full pt-4 bg-center bg-cover agencyImg">
         </div>
         <div className="bg2 h-screen mt-5"></div>
@@ -120,10 +121,10 @@ title="Social Media Shop" pText="Transform your social media presence with capti
     </div>
     <div className="w-1/4">
      <a href="tel:+91 9628604067"> 
-<button class="button-82-pushable" role="button">
-  <span class="button-82-shadow"></span>
-  <span class="button-82-edge"></span>
-  <span class="button-82-front text">
+<button className="button-82-pushable" role="button">
+  <span className="button-82-shadow"></span>
+  <span className="button-82-edge"></span>
+  <span className="button-82-front text">
     +918010268352
   </span>
 </button></a> 
