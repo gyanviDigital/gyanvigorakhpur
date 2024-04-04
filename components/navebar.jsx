@@ -6,7 +6,7 @@ const navebar = () => {
     <>
       <div className=' h-full flex border-b'>
         <div className="w-1/5 overflow-hidden flex place-items-center place-content-center p-4 ">
-            <img src="../images/gyanvi-digital-logo.png" alt="" />
+            <img src="./images/gyanvi-digital-logo.png" alt="" />
         </div>
         <div className="w-4/5 overflow-hidden flex place-items-center place-content-start p-4  ">
 <div className=" flex place-items-center place-content-start p-3 w-3/5 btn5">

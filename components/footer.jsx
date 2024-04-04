@@ -11,7 +11,7 @@ const footer = () => {
 <div className="h-48 m-1 grid place-items-center text-center">
    <div className=" w-auto h-full">
     <div className="footerLogo w-40 overflow-hidden">
-<img src="../images/gyanvi-digital-logo.png" alt="" />
+<img src="./images/gyanvi-digital-logo.png" alt=".." />
     </div>
     <div className='flex place-items-center gap-2 text-white hover:text-green-500 hover:font-bold  '>
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-telephone-inbound" viewBox="0 0 16 16">
